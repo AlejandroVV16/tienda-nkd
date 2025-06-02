@@ -12,7 +12,7 @@
     {
         "id": "frenos-02",
         "titulo": "Pastillas de freno Kontrol",
-        "imagen": "./img/frenos/pastillas de freno Kontrol.png",
+        "imagen": "./img/frenos/pastillas de freno kontrol.png",
         "categoria": {
             "nombre": "Frenos",
             "id": "frenos"
